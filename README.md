@@ -1,6 +1,6 @@
-[# 19CS301-Module-1
+# 19CS301-Module-1
 
-- **Name:** Mohamed Munthasir  Y
+- **Name:** Mohamed Munthasir Y 
 - **Registration Number:** 212222220025
 
 ## Experiment No: 1a Python Basics- convert tuple to list.
@@ -181,4 +181,3 @@ print(f"The maximum of {num1}, {num2}, {num3} is {min_num}")
 
 ### RESULT
 Thus the program is executed Successfully.
-](https://github.com/Subashree-A/Module-1)
